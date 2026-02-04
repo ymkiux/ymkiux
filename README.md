@@ -1,16 +1,23 @@
-### Hi there 👋
+# About Me
+- Enjoy programming and build awesome stuff
+- Discovering, solving, and expanding problems is the only truth
+- Life's most persistent and urgent question is, "What are you doing for others?"
 
-<!--
-**ymkiux/ymkiux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- 常用语言 -->
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,go,js,ts,html,css" />
+</p>
+
+<p align="center">
+  <!-- 框架与工具 -->
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,electron,vue,react,tailwind,hexo" />
+</p>
+
+<p align="center">
+  <!-- 其他工具 -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows" />
+</p>
